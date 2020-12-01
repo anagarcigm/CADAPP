@@ -3,22 +3,21 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DD04V>
-    <ROLLNAME>ZE_NUMBER_EMPLOYEE</ROLLNAME>
+    <ROLLNAME>ZE_NUMEMPLEADO_FENIXALERTS</ROLLNAME>
     <DDLANGUAGE>E</DDLANGUAGE>
     <HEADLEN>55</HEADLEN>
     <SCRLEN1>10</SCRLEN1>
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
-    <DDTEXT>Description of number</DDTEXT>
-    <REPTEXT>number</REPTEXT>
-    <SCRTEXT_S>number</SCRTEXT_S>
-    <SCRTEXT_M>number</SCRTEXT_M>
-    <SCRTEXT_L>number</SCRTEXT_L>
+    <DDTEXT>Description of numEmpleado</DDTEXT>
+    <REPTEXT>numEmpleado</REPTEXT>
+    <SCRTEXT_S>numEmplead</SCRTEXT_S>
+    <SCRTEXT_M>numEmpleado</SCRTEXT_M>
+    <SCRTEXT_L>numEmpleado</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
-    <DATATYPE>DEC</DATATYPE>
-    <LENG>000015</LENG>
-    <DECIMALS>000002</DECIMALS>
-    <OUTPUTLEN>000020</OUTPUTLEN>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000255</LENG>
+    <OUTPUTLEN>000255</OUTPUTLEN>
    </DD04V>
   </asx:values>
  </asx:abap>

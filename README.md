@@ -1,2 +1,2 @@
-# SUSICADS-1248
+# BestPractice
 A simple CAD app

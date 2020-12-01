@@ -10,15 +10,15 @@
     <SCRLEN2>20</SCRLEN2>
     <SCRLEN3>40</SCRLEN3>
     <DDTEXT>Description of centro</DDTEXT>
-    <REPTEXT>Description of centro</REPTEXT>
-    <SCRTEXT_S>Descriptio</SCRTEXT_S>
-    <SCRTEXT_M>Description of centr</SCRTEXT_M>
-    <SCRTEXT_L>Description of centro</SCRTEXT_L>
+    <REPTEXT>centro</REPTEXT>
+    <SCRTEXT_S>centro</SCRTEXT_S>
+    <SCRTEXT_M>centro</SCRTEXT_M>
+    <SCRTEXT_L>centro</SCRTEXT_L>
     <DTELMASTER>E</DTELMASTER>
     <DATATYPE>DEC</DATATYPE>
     <LENG>000010</LENG>
     <DECIMALS>000002</DECIMALS>
-    <OUTPUTLEN>000013</OUTPUTLEN>
+    <OUTPUTLEN>000012</OUTPUTLEN>
    </DD04V>
   </asx:values>
  </asx:abap>
