@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿**Readme.md**
-=======
-**Readme.md**
->>>>>>> f177e2dc0dc873411a8fba64c57ed011c49fd419
 
 (Insert a cover image that relates to the project)
 
