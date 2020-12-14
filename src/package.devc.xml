@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿﻿<?xml version="1.0" encoding="utf-8"?>
-=======
-﻿<?xml version="1.0" encoding="utf-8"?>
->>>>>>> f177e2dc0dc873411a8fba64c57ed011c49fd419
 <abapGit version="v1.0.0" serializer="LCL_OBJECT_DEVC" serializer_version="v1.0.0">
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
@@ -13,12 +9,4 @@
    </DEVC>
   </asx:values>
  </asx:abap>
-<<<<<<< HEAD
 </abapGit>
-=======
-<<<<<<< HEAD
-</abapGit>
-=======
-</abapGit>
->>>>>>> 76005d704a6c23bd96ce1241e4698f0292f9241e
->>>>>>> f177e2dc0dc873411a8fba64c57ed011c49fd419
