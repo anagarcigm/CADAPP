@@ -52,10 +52,10 @@
      <ADMINFIELD>0</ADMINFIELD>
      <INTTYPE>C</INTTYPE>
      <INTLEN>000510</INTLEN>
-     <DATATYPE>CHAR</DATATYPE>
-     <DDTEXT>Descripcion de name</DDTEXT>
+     <DATATYPE>CHAR</DATATYPE>   
      <LENG>000255</LENG>
      <MASK>  CHAR</MASK>
+     <DDTEXT>Descripcion de name</DDTEXT>
     </DD03P>
    </DD03P_TABLE>
    <DD05M_TABLE>
