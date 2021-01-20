@@ -44,9 +44,9 @@
      <INTLEN>000010</INTLEN>
      <NOTNULL>X</NOTNULL>
      <DATATYPE>DEC</DATATYPE>
-     <DDTEXT>Descripcion de project</DDTEXT>
      <LENG>000019</LENG>
      <MASK>  DEC</MASK>
+     <DDTEXT>Descripcion de project</DDTEXT>
     </DD03P>
     <DD03P>
      <TABNAME>ZCAD_FENIX</TABNAME>
@@ -68,9 +68,9 @@
      <INTTYPE>G</INTTYPE>
      <INTLEN>000008</INTLEN>
      <DATATYPE>STRG</DATATYPE>
-     <DDTEXT>Descripcion de description</DDTEXT>
      <LENG>004000</LENG>
      <MASK>  STRG</MASK>
+     <DDTEXT>Descripcion de description</DDTEXT>
     </DD03P>
     <DD03P>
      <TABNAME>ZCAD_FENIX</TABNAME>
@@ -81,9 +81,9 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000510</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <DDTEXT>Descripcion de center</DDTEXT>
      <LENG>000255</LENG>
      <MASK>  CHAR</MASK>
+     <DDTEXT>Descripcion de center</DDTEXT>
     </DD03P>
     <DD03P>
      <TABNAME>ZCAD_FENIX</TABNAME>
@@ -94,9 +94,9 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000510</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <DDTEXT>Descripcion de serverPassword</DDTEXT>
      <LENG>000255</LENG>
      <MASK>  CHAR</MASK>
+     <DDTEXT>Descripcion de serverPassword</DDTEXT>
     </DD03P>
     <DD03P>
      <TABNAME>ZCAD_FENIX</TABNAME>
@@ -107,9 +107,9 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000010</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <DDTEXT>Descripcion de isAutenticated</DDTEXT>
      <LENG>000005</LENG>
      <MASK>  CHAR</MASK>
+     <DDTEXT>Descripcion de isAutenticated</DDTEXT>
     </DD03P>
     <DD03P>
      <TABNAME>ZCAD_FENIX</TABNAME>
@@ -120,9 +120,9 @@
      <INTTYPE>X</INTTYPE>
      <INTLEN>000004</INTLEN>
      <DATATYPE>INT4</DATATYPE>
-     <DDTEXT>Descripcion de alert</DDTEXT>
      <LENG>000010</LENG>
      <MASK>  INT4</MASK>
+     <DDTEXT>Descripcion de alert</DDTEXT>
     </DD03P>
     <DD03P>
      <TABNAME>ZCAD_FENIX</TABNAME>
@@ -133,9 +133,9 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000020</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <DDTEXT>Descripcion de creationDate</DDTEXT>
      <LENG>000010</LENG>
      <MASK>  CHAR</MASK>
+     <DDTEXT>Descripcion de creationDate</DDTEXT>
     </DD03P>
     <DD03P>
      <TABNAME>ZCAD_FENIX</TABNAME>
@@ -146,9 +146,9 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000038</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <DDTEXT>Descripcion de startDate</DDTEXT>
      <LENG>000019</LENG>
      <MASK>  CHAR</MASK>
+     <DDTEXT>Descripcion de startDate</DDTEXT>
     </DD03P>
    </DD03P_TABLE>
    <DD05M_TABLE>
