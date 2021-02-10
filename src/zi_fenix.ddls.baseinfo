@@ -1,4 +1,4 @@
-{
+﻿{
 "BASEINFO":
 {
 "FROM":
@@ -6,7 +6,9 @@
 "ZCAD_FENIX"
 ],
 "ASSOCIATED":
-[],
+[
+"ZI_ENTITYCHILD"
+],
 "BASE":
 [],
 "ANNO_REF":
