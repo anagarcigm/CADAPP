@@ -1,13 +1,8 @@
-﻿@AbapCatalog.sqlViewName: 'ZIFENIX'
-@AbapCatalog.compiler.compareFilter: true
-@AbapCatalog.preserveKey: true
+﻿@EndUserText.label: 'Proyection ZI_FENIX'
 @AccessControl.authorizationCheck: #NOT_REQUIRED
-@EndUserText.label: 'Vista de ZCAD_FENIX'
-@VDM.viewType: 'Basic'
-@Analytics.dataCategory: #FACT
+@Metadata.allowExtensions: true
 
-define root view ZI_FENIX
-  as select from ZCAD_FENIX
+define root view entity ZC_FENIX as projection on ZI_FENIX
 {
   KEY project AS project,
   KEY centersNumberEmployee AS centersNumberEmployee,
