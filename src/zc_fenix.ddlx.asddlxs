@@ -1,4 +1,4 @@
-﻿@Metadata.layer: #CUSTOMER
+@Metadata.layer: #CUSTOMER
 
 @UI.headerInfo: { typeName: 'Datos FENIX;',
 typeNamePlural: 'Lista FENIX',
