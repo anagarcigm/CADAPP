@@ -44,7 +44,7 @@
      <INTLEN>000010</INTLEN>
      <NOTNULL>X</NOTNULL>
      <DATATYPE>DEC</DATATYPE>
-     <LENG>000019</LENG>
+     <LENG>000010</LENG>
      <MASK>  DEC</MASK>
      <DDTEXT>Descripcion de project</DDTEXT>
     </DD03P>
@@ -73,7 +73,7 @@
      <INTTYPE>g</INTTYPE>
      <INTLEN>000008</INTLEN>
      <DATATYPE>STRG</DATATYPE>
-     <LENG>004000</LENG>
+     <LENG>000008</LENG>
      <MASK>  STRG</MASK>
      <DDTEXT>Descripcion de description</DDTEXT>
     </DD03P>
@@ -86,7 +86,7 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000510</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <LENG>000255</LENG>
+     <LENG>000510</LENG>
      <MASK>  CHAR</MASK>
      <DDTEXT>Descripcion de center</DDTEXT>
     </DD03P>
@@ -99,7 +99,7 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000510</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <LENG>000255</LENG>
+     <LENG>000510</LENG>
      <MASK>  CHAR</MASK>
      <DDTEXT>Descripcion de serverPassword</DDTEXT>
     </DD03P>
@@ -112,7 +112,7 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000010</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <LENG>000005</LENG>
+     <LENG>000010</LENG>
      <MASK>  CHAR</MASK>
      <DDTEXT>Descripcion de isAutenticated</DDTEXT>
     </DD03P>
@@ -125,7 +125,7 @@
      <INTTYPE>X</INTTYPE>
      <INTLEN>000004</INTLEN>
      <DATATYPE>INT4</DATATYPE>
-     <LENG>000010</LENG>
+     <LENG>000004</LENG>
      <MASK>  INT4</MASK>
      <DDTEXT>Descripcion de alert</DDTEXT>
     </DD03P>
@@ -138,7 +138,7 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000020</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <LENG>000010</LENG>
+     <LENG>000020</LENG>
      <MASK>  CHAR</MASK>
      <DDTEXT>Descripcion de creationDate</DDTEXT>
     </DD03P>
@@ -151,7 +151,7 @@
      <INTTYPE>C</INTTYPE>
      <INTLEN>000038</INTLEN>
      <DATATYPE>CHAR</DATATYPE>
-     <LENG>000019</LENG>
+     <LENG>000038</LENG>
      <MASK>  CHAR</MASK>
      <DDTEXT>Descripcion de startDate</DDTEXT>
     </DD03P>
