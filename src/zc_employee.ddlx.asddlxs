@@ -1,0 +1,33 @@
+@Metadata.layer: #CUSTOMER
+
+@UI.headerInfo: { typeName: 'Datos EMPLOYEE',
+typeNamePlural: 'Lista EMPLOYEE',
+title: {type: #STANDARD,
+        value: 'centersNumber' }}
+
+annotate view ZC_EMPLOYEE with
+{
+   @UI.facet: [
+
+          {
+                  id: 'EMPLOYEE',
+                  purpose: #STANDARD,
+                  type: #IDENTIFICATION_REFERENCE,
+                  position: 10,
+                  label: 'EMPLOYEE'
+                  }
+
+           ]
+           
+  @EndUserText.label: 'centersNumber'
+  @UI.selectionField: [{position: 10}]
+  @UI.lineItem: [{position:10 , label: 'C. centersNumber', importance:#HIGH }]
+  @UI.identification: [{ position:10, label: 'centersNumber' }]
+  centersNumber;
+
+  @EndUserText.label: 'name'
+  @UI.lineItem: [{position:20 , label: 'C. name' }]
+  @UI.identification: [{ position:20, label: 'name' }]
+  name;
+
+ }
