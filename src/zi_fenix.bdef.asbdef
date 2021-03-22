@@ -1,7 +1,7 @@
 implementation managed;
 
 define behavior for ZI_FENIX alias FENIX
-
+implementation in class zbp_fenix unique
 persistent table ZCAD_FENIX
 lock master
 {
