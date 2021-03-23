@@ -14,12 +14,14 @@ CLASS lhc_zi_fenix IMPLEMENTATION.
  READ ENTITY ZI_FENIX
          FROM VALUE #( FOR keyval IN keys
                      (  %key            = keyval-%key
-                        %control-project = if_abap_behv=>mk-on%control-centersNumberEmployee = if_abap_behv=>mk-on
+                        %control-project = if_abap_behv=>mk-on
+                        %control-centersNumberEmployee = if_abap_behv=>mk-on
                                                      ) )
                                     RESULT  DATA(lt_result).
          result = VALUE #( FOR ls_data IN LT_RESULT
        ( %key = ls_data-%key
-        %field-project = if_abap_behv=>fc-f-read_only%field-centersNumberEmployee = if_abap_behv=>fc-f-read_only
+        %field-project = if_abap_behv=>fc-f-read_only
+        %field-centersNumberEmployee = if_abap_behv=>fc-f-read_only
            ) ).
 
   ENDMETHOD.
